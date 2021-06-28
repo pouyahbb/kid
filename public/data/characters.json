@@ -1,0 +1,337 @@
+{
+  "green": [
+    {
+      "title": "characterTitle1",
+      "list": [
+        {
+          "image": "/images/characters/1.png"
+        },
+        {
+          "image": "/images/characters/2.png"
+        },
+        {
+          "image": "/images/characters/3.png"
+        },
+        {
+          "image": "/images/characters/4.png"
+        },
+        {
+          "image": "/images/characters/5.png"
+        },
+        {
+          "image": "/images/characters/6.png"
+        },
+        {
+          "image": "/images/characters/7.png"
+        },
+        {
+          "image": "/images/characters/8.png"
+        },
+        {
+          "image": "/images/characters/9.png"
+        },
+        {
+          "image": "/images/characters/10.png"
+        },
+        {
+          "image": "/images/characters/11.png"
+        },
+        {
+          "text": "characterText1"
+        },
+        {
+          "text": "characterText2"
+        }
+      ]
+    },
+    {
+      "title": "characterTitle2",
+      "list": [
+        {
+          "image": "/images/characters/12.png"
+        },
+        {
+          "image": "/images/characters/13.png"
+        },
+        {
+          "image": "/images/characters/14.png"
+        },
+        {
+          "image": "/images/characters/15.png"
+        },
+        {
+          "image": "/images/characters/16.png"
+        },
+        {
+          "image": "/images/characters/17.png"
+        },
+        {
+          "image": "/images/characters/18.png"
+        },
+        {
+          "image": "/images/characters/19.png"
+        },
+        {
+          "image": "/images/characters/20.png"
+        },
+        {
+          "image": "/images/characters/21.png"
+        },
+        {
+          "image": "/images/characters/22.png"
+        },
+        {
+          "image": "/images/characters/23.png"
+        },
+        {
+          "image": "/images/characters/24.png"
+        },
+        {
+          "image": "/images/characters/25.png"
+        },
+        {
+          "image": "/images/characters/26.png"
+        },
+        {
+          "image": "/images/characters/27.png"
+        },
+        {
+          "text": "characterText3"
+        },
+        {
+          "image": "/images/characters/28.png"
+        },
+        {
+          "text": "characterText4"
+        },
+        {
+          "break": true
+        },
+        {
+          "text": "characterText5"
+        },
+        {
+          "text": "characterText6"
+        },
+        {
+          "text": "characterText7"
+        },
+        {
+          "text": "characterText8"
+        }
+      ]
+    }
+  ],
+  "yellow": {
+    "list": [
+      {
+        "image": "/images/characters/1.png"
+      },
+      {
+        "image": "/images/characters/2.png"
+      },
+      {
+        "image": "/images/characters/3.png"
+      },
+      {
+        "image": "/images/characters/4.png"
+      },
+      {
+        "image": "/images/characters/5.png"
+      },
+      {
+        "image": "/images/characters/6.png"
+      },
+      {
+        "image": "/images/characters/7.png"
+      },
+      {
+        "image": "/images/characters/8.png"
+      },
+      {
+        "image": "/images/characters/9.png"
+      },
+      {
+        "image": "/images/characters/10.png"
+      },
+      {
+        "image": "/images/characters/11.png"
+      },
+      {
+        "image": "/images/characters/12.png"
+      },
+      {
+        "image": "/images/characters/13.png"
+      },
+      {
+        "image": "/images/characters/14.png"
+      },
+      {
+        "image": "/images/characters/15.png"
+      },
+      {
+        "image": "/images/characters/16.png"
+      },
+      {
+        "image": "/images/characters/17.png"
+      },
+      {
+        "image": "/images/characters/18.png"
+      },
+      {
+        "image": "/images/characters/19.png"
+      },
+      {
+        "image": "/images/characters/20.png"
+      },
+      {
+        "image": "/images/characters/21.png"
+      },
+      {
+        "image": "/images/characters/22.png"
+      },
+      {
+        "image": "/images/characters/23.png"
+      },
+      {
+        "image": "/images/characters/24.png"
+      },
+      {
+        "image": "/images/characters/25.png"
+      },
+      {
+        "image": "/images/characters/26.png"
+      },
+      {
+        "image": "/images/characters/27.png"
+      },
+      {
+        "image": "/images/characters/28.png"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "characterText1"
+      },
+      {
+        "text": "characterText2"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "characterText3"
+      },
+      {
+        "text": "characterText4"
+      },
+      {
+        "text": "characterText5"
+      },
+      {
+        "text": "characterText6"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "characterText7"
+      },
+      {
+        "text": "characterText8"
+      }
+    ]
+  },
+  "orange": {
+    "list": [
+      {
+        "image": "/images/characters/1.png"
+      },
+      {
+        "image": "/images/characters/2.png"
+      },
+      {
+        "image": "/images/characters/3.png"
+      },
+      {
+        "image": "/images/characters/4.png"
+      },
+      {
+        "image": "/images/characters/5.png"
+      },
+      {
+        "image": "/images/characters/6.png"
+      },
+      {
+        "image": "/images/characters/7.png"
+      },
+      {
+        "image": "/images/characters/8.png"
+      },
+      {
+        "image": "/images/characters/9.png"
+      },
+      {
+        "image": "/images/characters/10.png"
+      },
+      {
+        "image": "/images/characters/11.png"
+      },
+      {
+        "image": "/images/characters/12.png"
+      },
+      {
+        "image": "/images/characters/13.png"
+      },
+      {
+        "image": "/images/characters/14.png"
+      },
+      {
+        "image": "/images/characters/15.png"
+      },
+      {
+        "image": "/images/characters/16.png"
+      },
+      {
+        "image": "/images/characters/17.png"
+      },
+      {
+        "image": "/images/characters/18.png"
+      },
+      {
+        "image": "/images/characters/19.png"
+      },
+      {
+        "image": "/images/characters/20.png"
+      },
+      {
+        "image": "/images/characters/21.png"
+      },
+      {
+        "image": "/images/characters/22.png"
+      },
+      {
+        "image": "/images/characters/23.png"
+      },
+      {
+        "image": "/images/characters/24.png"
+      },
+      {
+        "image": "/images/characters/25.png"
+      },
+      {
+        "image": "/images/characters/26.png"
+      },
+      {
+        "image": "/images/characters/27.png"
+      },
+      {
+        "image": "/images/characters/28.png"
+      }
+    ]
+  }
+}
